@@ -17,10 +17,13 @@ It is a linear regression model trained then tested three different times with t
 - Finally, the third data set was a random small sample size of 15% and the remaining 85% was to test.
 
 The code for this report was originally for an exercise to get a better understanding in machine learning while improving my Python programming skills. It was suggested to me by my research professor. Then after making a code a few months later I had to write a report 
-
+<p align="center">
+  <img src="allthree.png" width="350" title="hover text">
+  <img src="allthree.png" width="350" alt="accessibility text">
+</p>
 *Figure 1: Write description*
 
 
 ## Model Assessment
 
-Performance metrics - variance and error of 10,000 times
+Performance metrics
