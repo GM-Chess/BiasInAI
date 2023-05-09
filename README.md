@@ -18,8 +18,8 @@ It is a linear regression model trained then tested three different times with t
 
 The code for this report was originally for an exercise to get a better understanding in machine learning while improving my Python programming skills. It was suggested to me by my research professor. Then after making a code a few months later I had to write a report 
 <p align="center">
-  <img src="allthree.png" width="350" title="hover text">
-  <img src="allthree.png" width="350" alt="accessibility text">
+  <img src="allthree.png" width="500" title="hover text">
+
 </p>
 *Figure 1: Write description*
 
