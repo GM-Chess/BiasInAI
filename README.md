@@ -23,7 +23,7 @@ The code for this report was originally for an exercise to get a better understa
 									onmouseover="this.style.transform='scale(4.3)'" onmouseout="this.style.transform='none'">
 
 </p>
-*Figure 1: Write description*
+*Figure 1: There is a noticeable difference in the model's performance. This bias results from using poor samples from the population that will result in an overestimate depicted in the light purple line or under prediction displayed with the light brown line. The dependent variable "GDP" is on the positive Z-axis—the two independent variables - Total, Booked, Claims, or Deposits are along the X and Y axis. The scattered dots are the precise data points for the creation of the regression line.*
 
 
 ## Model Assessment
