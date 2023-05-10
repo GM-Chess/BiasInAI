@@ -19,8 +19,7 @@ It is a linear regression model trained then tested three different times with t
 The code for this report was originally for an exercise to get a better understanding in machine learning while improving my Python programming skills. It was suggested to me by my research professor. Then after making a code a few months later I had to write a report 
 <p align="center">
   <img src="allthree.png" width="1000" alt="Image" title="Graph Comparing all the models trained and test data"
-       style="transition: all 0.2s ease-in-out;" 
-									onmouseover="this.style.transform='scale(4.3)'" onmouseout="this.style.transform='none'">
+       style="transition: all 0.2s ease-in-out;" onmouseover="this.style.transform='scale(4.3)'" onmouseout="this.style.transform='none'">
 
 </p>
 *Figure 1: There is a noticeable difference in the model's performance. This bias results from using poor samples from the population that will result in an overestimate depicted in the light purple line or under prediction displayed with the light brown line. The dependent variable "GDP" is on the positive Z-axis—the two independent variables - Total, Booked, Claims, or Deposits are along the X and Y axis. The scattered dots are the precise data points for the creation of the regression line.*
