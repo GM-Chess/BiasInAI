@@ -27,4 +27,7 @@ The code for this report was originally for an exercise to get a better understa
 
 ## Model Assessment
 
-Performance metrics
+To test the model and gather the metrics about its performance from being trained with specific samples meant to bias the models. I used a for loop to train and test the model 10000 times and then took the average of the metrics. 
+Standard practice 80% mask to train the model had an average **error of 4.89% and a variance score of 0.79.**
+Small sample of 15% mask to train the model had an average **error of 4.74% and a variance score of 0.82**
+Good date smaple use to train resulted in an average **error of 4.35% and a variance score of 0.61**
