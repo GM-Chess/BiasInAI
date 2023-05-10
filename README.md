@@ -18,7 +18,9 @@ It is a linear regression model trained then tested three different times with t
 
 The code for this report was originally for an exercise to get a better understanding in machine learning while improving my Python programming skills. It was suggested to me by my research professor. Then after making a code a few months later I had to write a report 
 <p align="center">
-  <img src="allthree.png" width="1000" title="hover text">
+  <img src="allthree.png" width="1000" title="Graph Comparing all the models trained and test data"
+       style="transition: all 0.2s ease-in-out;" 
+									onmouseover="this.style.transform='scale(4.3)'" onmouseout="this.style.transform='none'">
 
 </p>
 *Figure 1: Write description*
