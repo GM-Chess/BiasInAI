@@ -10,7 +10,7 @@ from mpl_toolkits.mplot3d import Axes3D
 
 ## import the data
 ## transform the data so that there is a column for date and column for Total, booked, Claims and column for GDP 
-df = pd.read_csv('bank5.csv') #use pandas to read the csv
+df = pd.read_csv('data.csv') #use pandas to read the csv
 listOfDates= list(df.loc[:,"Q3 2001":"Q3 2022"].columns)
 ndf = df.melt(id_vars=["Claims and deposits","Country of non-resident"],value_vars=listOfDates,var_name='QuarterDate',value_name='Indicator Value')
 qs = ndf['QuarterDate'].str.replace(r'(Q\d) (\d+)', r'\2-\1')
